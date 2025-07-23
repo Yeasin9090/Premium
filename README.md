@@ -60,7 +60,7 @@ wget -O setup https://raw.githubusercontent.com/Yeasin9090/Premium/refs/heads/ma
   </p>
 
   <p>
-    <a href="https://wa.me/8801639111636" target="_blank">
+    <a href="https://wa.me/966577474128" target="_blank">
       <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="WhatsApp" style="vertical-align: middle;"/>
       <strong>WhatsApp</strong> – +966577474128
     </a>
